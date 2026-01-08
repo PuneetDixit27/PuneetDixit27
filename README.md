@@ -1,3 +1,15 @@
+## 👋 About Me
+
+Hi, I'm Punit Dixit 👋  
+I'm currently pursuing my B.Tech in Computer Science Engineering (Batch 2026) from Dr. Bhimrao Ambedkar University.  
+I’m passionate about Data Analytics and love exploring data using Python.
+
+I work with tools like Pandas, NumPy, SQL, Power BI, and MongoDB to clean data, analyze it, and turn it into meaningful insights and visualizations.
+
+I enjoy learning new concepts, building projects, and experimenting with real-world datasets.  
+I’m focused on growing my skills and building a strong career in Data Analytics.
+
+Always open to collaborations, exciting projects, and internship opportunities 🚀
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/puneet.dixit.52) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/puneetdixit9090/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Vikash_ff_1k) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:puneetdixit2711@gmail.com) 
