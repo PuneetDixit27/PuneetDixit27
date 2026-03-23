@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hi, I'm Punit Dixit 👋  
+Hi, I'm Puneet Dixit 👋  
 I'm currently pursuing my B.Tech in Computer Science Engineering (Batch 2026) from Dr. Bhimrao Ambedkar University.  
 I’m passionate about Data Analytics and love exploring data using Python.
 
